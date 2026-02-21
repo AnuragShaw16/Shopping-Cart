@@ -189,16 +189,6 @@ The Frameworks/Libraries used in the project and their purposes:
 ## Version
   1.0.0
 
-## License
-  Copyright &copy; 2023. All Right Reserved.<br>
-  This project is licensed under the [MIT License](LICENSE.txt)
 
-## References
-- [Designing a microservices architecture](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/) - *Azure Architecture Center | Microsoft Docs*
-- [Cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - *Azure Architecture Center | Microsoft Docs*
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-## Contact Details
 
-* Email: visalsrimanga@gmail.com
-* Linkedin: Visal Srimanga
